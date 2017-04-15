@@ -12,6 +12,3 @@
   max-height: $height;
 }
 
-.header {
-  @mixin backImage '../images/backgrounds/running.jpg';
-}
