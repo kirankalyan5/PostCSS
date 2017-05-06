@@ -5,3 +5,9 @@
 
 @import "modules/header";
 @import "modules/navigation";
+@import "modules/footer";
+@import "modules/section";
+@import "sections/history";
+@import "sections/products";
+@import "sections/gaurantee";
+@import "sections/people";
